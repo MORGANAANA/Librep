@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>public_html/index.html</url>
+            <bookmark id="3">
+                <name/>
+                <line>82</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>82</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/morganar/Documents/NetBeansProjects/Librep/public_html/recursos/estilo/padrao.css</file>
-            <file>file:/C:/Users/morganar/Documents/NetBeansProjects/Librep/public_html/index.html</file>
+            <file>file:/D:/Morgana/Desktop/Librep/Librep/public_html/recursos/imagens/icon_lado.png</file>
+            <file>file:/D:/Morgana/Desktop/Librep/Librep/public_html/recursos/estilo/padrao.css</file>
+            <file>file:/D:/Morgana/Desktop/Librep/Librep/public_html/recursos/imagens/books-pp9-prints.jpg</file>
+            <file>file:/D:/Morgana/Desktop/Librep/Librep/public_html/index.html</file>
+            <file>file:/D:/Morgana/Desktop/Librep/Librep/public_html/recursos/imagens/bg_library4.png</file>
+            <file>file:/D:/Morgana/Desktop/Librep/Librep/public_html/materialize/js/materialize.js</file>
         </group>
     </open-files>
 </project-private>

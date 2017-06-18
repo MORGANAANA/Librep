@@ -26,7 +26,7 @@ and open the template in the editor.
 
 body,html{ 
     height: 100%; 
-  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
 
 }
 
@@ -37,9 +37,6 @@ body,html{
 
 }
 
-.img-segunda{
-    width: 100%;
-}
 
 
 .img-apresentacao{
@@ -49,7 +46,8 @@ body,html{
 
 
 .page-footer{
-    background-color:#333333!important;   
+    background-color:#fbf8e8!important;  
+    height:min-content;
 }
 .footer-copyright{
     background-color:#52240f !important;
@@ -65,35 +63,49 @@ h5{
 .txt_central{
     padding-left: 30px;  
 }
-.p1{
- 
-}
-.p2{
-    background-color: blue;
-}
-.p3{
-    background-color: green;
-}
+
 .introTXT{
-    color:goldenrod !important;
-    font-size: 40pt !important;
+    color:#6d4c41 !important;
+    font-size: 25pt !important;
     text-justify:kashida;
     text-align: center;
     padding-left: 80px;
     padding-right: 80px;
 }
-.blockquote {
-     border-left: 5px solid #009881 !important;
-}
+
 .textoCentral{ 
-     background-color: black;
-     opacity: 0.5;
-     color:white;
-     font-size: 20pt;
- 
+    background-color: black;
+    opacity: 0.5;
+    color:white;
+    font-size: 20pt;
+
+}
+
+.texto-sobre-img{
+    color:white;
+    position:absolute;
+}
+
+.textoSobreImg{
+    font-size: 22pt!important; 
+    color:white;
+    padding: 0% 0% 0% 0%;
+    margin:70% 0% 0% 40%;
+    height: 0%;
+    width: 100%;
 }
 .img_txt_central{
     height: 20px;
     width: 50px;
-    
+
+}
+.img-pessoa{
+    height:600px;
+    width: 100%;
+    size: auto;
+}
+.img-time{
+    height:600px;
+    width: 100%;
+    size: auto;
 }
